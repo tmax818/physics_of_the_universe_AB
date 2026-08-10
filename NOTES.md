@@ -19,8 +19,8 @@ title: NOTES (physics)
 |----|----|----|
 |[force]||p. 26|
 |[friction]||p. 26|
-|[normal force]||p. 27|
-|[weight]||p. 27|
+|[normal force]||p. 27 ![](./images/Incline.svg){width=100px}|
+|[weight]||p. 27 ![](./images/Mass_versus_weight_in_earth_and_mars.svg.webp){width=100px}|
 
 
 |term| definition | notes |
@@ -116,8 +116,8 @@ title: NOTES (physics)
 
 |term| definition | notes |
 |----|----|----|
-|[work]||p. 12|
-|[heat engine]||p. 12|
+|[work]||p. 200|
+|[heat engine]||p. 225|
 
 ## essential questions
 
