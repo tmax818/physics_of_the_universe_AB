@@ -17,21 +17,21 @@ title: NOTES (physics)
 
 |term| definition | notes |
 |----|----|----|
-|[force]||p. 12|
-|[friction]||p. 12|
-|[normal force]||p. 12|
-|[weight]||p. 12|
+|[force]||p. 26|
+|[friction]||p. 26|
+|[normal force]||p. 27|
+|[weight]||p. 27|
 
 
 |term| definition | notes |
 |----|----|----|
-|[tradeoff]
-|[iterate]||p. 12|
-|[criteria]||p. 12|
-|[constraint]||p. 12|
-|[decision matrix]||p. 12|
-|[prototype]||p. 12|
-|[stress]||p. 12|
+|[tradeoff]||p. 48|
+|[iterate]||p. 50|
+|[criteria]||p. 51|
+|[constraint]||p. 51|
+|[decision matrix]||p. 53|
+|[prototype]||p. 54|
+|[stress]|the internal force between neighboring particles in a material|p. 57|
 
 ## essential questions
 
@@ -54,8 +54,10 @@ title: NOTES (physics)
 
 |term| definition | notes |
 |----|----|----|
-|[inelastic collision]||p. 12|
-|[tectonic plate]||p. 12|
+|[inelastic collision]||p. 92|
+|[tectonic plate]||p. 100|
+
+![](./images/Inelastischer_stoß.gif)
 
 ## essential questions
 
@@ -71,9 +73,9 @@ title: NOTES (physics)
 
 |term| definition | notes |
 |----|----|----|
-|[gravitational force]|
-|[contact force]|
-|[field force]|
+|[gravitational force]||p. 12|
+|[contact force]||p. 12|
+|[field force]||p. 12|
 
 
 |term| definition | notes |
@@ -245,7 +247,7 @@ pixel Lesson 4
 [constraint]: https://en.wikipedia.org/wiki/
 [decision matrix]: https://en.wikipedia.org/wiki/
 [prototype]: https://en.wikipedia.org/wiki/
-[stress]: https://en.wikipedia.org/wiki/
+[stress]: https://en.wikipedia.org/wiki/Strength_of_materials#stress_terms
 
 [momentum]: https://en.wikipedia.org/wiki/momentum
 [impulse]: https://en.wikipedia.org/wiki/impulse
@@ -255,32 +257,31 @@ pixel Lesson 4
 [inelastic collision]: https://en.wikipedia.org/wiki/Inelastic_collision
 [tectonic plate]: https://en.wikipedia.org/wiki/tectonic_plate
 
-[gravitational force]: https://en.wikipedia.org/wiki/
-[contact force]: https://en.wikipedia.org/wiki/
-[field force]: https://en.wikipedia.org/wiki/
+[gravitational force]: https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+[contact force]: https://en.wikipedia.org/wiki/Contact_force
+[field force]: https://en.wikipedia.org/wiki/Force_field_(physics)
 
 [attractive force]: https://en.wikipedia.org/wiki/
 [repulsive force]: https://en.wikipedia.org/wiki/
-[electric field]: https://en.wikipedia.org/wiki/
+[electric field]: https://en.wikipedia.org/wiki/Electric_field
 
 [macromolecule]: https://en.wikipedia.org/wiki/macromolecule
 [polymer]: https://en.wikipedia.org/wiki/polymer
 
 [kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
-[potential energy]: https://en.wikipedia.org/wiki/
-[thermal energy]: https://en.wikipedia.org/wiki/
+[potential energy]: https://en.wikipedia.org/wiki/potential_energy
+[thermal energy]: https://en.wikipedia.org/wiki/Thermal_energy
 [thermal equilibrium]: https://en.wikipedia.org/wiki/
-[heat]: https://en.wikipedia.org/wiki/
-[specific heat capacity]: https://en.wikipedia.org/wiki/
-
+[heat]: https://en.wikipedia.org/wiki/heat
+[specific heat capacity]: https://en.wikipedia.org/wiki/Specific_heat_capacity
 [work]: https://en.wikipedia.org/wiki/work_(physics)
 [heat engine]: https://en.wikipedia.org/wiki/
 
-[electrical energy]: https://en.wikipedia.org/wiki/
-[electric current]: https://en.wikipedia.org/wiki/ 
-[resistance]: https://en.wikipedia.org/wiki/ 
-[voltage]: https://en.wikipedia.org/wiki/
-[electric potential]: https://en.wikipedia.org/wiki/
+[electrical energy]: https://en.wikipedia.org/wiki/electrical_energy
+[electric current]: https://en.wikipedia.org/wiki/Electric_current
+[resistance]: hhttps://en.wikipedia.org/wiki/Electrical_resistance_and_conductance
+[voltage]: https://en.wikipedia.org/wiki/voltage
+[electric potential]: https://en.wikipedia.org/wiki/electric_potential
 
 [electromagnet]: https://en.wikipedia.org/wiki/
 [electromagnetic induction]: https://en.wiki[pedia.org/wiki/
@@ -313,16 +314,16 @@ pixel Lesson 4
 [electromagnetic spectrum]: https://en.wikipedia.org/wiki/Electromagnetic_spectrum
 [photon]: https://en.wikipedia.org/wiki/photon
 [blackbody]: https://en.wikipedia.org/wiki/Black_body
-[photoelectric effect]: https://en.wikipedia.org/wiki/
+[photoelectric effect]: https://en.wikipedia.org/wiki/photoelectric_effect
 
 [array]: https://en.wikipedia.org/wiki/
 [pixel]: https://en.wikipedia.org/wiki/
 
 
-[light-year]: https://en.wikipedia.org/wiki/
+[light-year]: https://en.wikipedia.org/wiki/Light-year
 [plasma]: https://en.wikipedia.org/wiki/
 [sunspot]: https://en.wikipedia.org/wiki/
 [Doppler effect]: https://en.wikipedia.org/wiki/
 
-[big bang theory]: https://en.wikipedia.org/wiki/
-[cosmic microwave background]: https://en.wikipedia.org/wiki/
+[big bang theory]: https://en.wikipedia.org/wiki/big_bang
+[cosmic microwave background]: https://en.wikipedia.org/wiki/Cosmic_microwave_background
