@@ -1,0 +1,334 @@
+#+title: NOTES (physics)
+
+* motion and forces
+:PROPERTIES:
+:CUSTOM_ID: motion-and-forces
+:time: 30 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary
+:END:
+| term                                                                     | definition                                   | notes |
+|--------------------------------------------------------------------------+----------------------------------------------+-------|
+| [[https://en.wikipedia.org/wiki/Frame_of_reference][frame of reference]] | a system of coordinates with a fixed origin  | p. 6  |
+| [[https://en.wikipedia.org/wiki/Euclidean_vector][vector]]               | quantities that have both size and direction | p. 8  |
+| [[https://en.wikipedia.org/wiki/velocity][velocity]]                     |                                              | p. 8  |
+| [[https://en.wikipedia.org/wiki/acceleration][acceleration]]             |                                              | p. 10 |
+| [[https://en.wikipedia.org/wiki/gravity][gravity]]                       |                                              | p. 12 |
+
+| term                                                         | definition | notes |
+|--------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/force][force]]               |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/friction][friction]]         |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/normal_force][normal force]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/weight][weight]]             |            | p. 12 |
+
+| term                                                | definition | notes |
+|-----------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][tradeoff]]        |            |       |
+| [[https://en.wikipedia.org/wiki/][iterate]]         |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][criteria]]        |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][constraint]]      |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][decision matrix]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][prototype]]       |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][stress]]          |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions
+:END:
+*** How can *[[https://en.wikipedia.org/wiki/force][force]]s* on objects be used to predict their *[motion]*?
+:PROPERTIES:
+:CUSTOM_ID: how-can-forces-on-objects-be-used-to-predict-their-motion
+:END:
+*** How do different forces affect motion when they interact?
+:PROPERTIES:
+:CUSTOM_ID: how-do-different-forces-affect-motion-when-they-interact
+:END:
+*** How can forces be used to predict stability?
+:PROPERTIES:
+:CUSTOM_ID: how-can-forces-be-used-to-predict-stability
+:END:
+*** How do engineers use forces and motion to develop solutions to problems?
+:PROPERTIES:
+:CUSTOM_ID: how-do-engineers-use-forces-and-motion-to-develop-solutions-to-problems
+:END:
+*** How do geologic forces affect rock?
+:PROPERTIES:
+:CUSTOM_ID: how-do-geologic-forces-affect-rock
+:END:
+* momentum and collisions
+:PROPERTIES:
+:CUSTOM_ID: momentum-and-collisions
+:time: 25 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-1
+:END:
+| term                                                                   | definition | notes |
+|------------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/momentum][momentum]]                   |            | p. 80 |
+| [[https://en.wikipedia.org/wiki/impulse][impulse]]                     |            | p. 83 |
+| [[https://en.wikipedia.org/wiki/elastic_collision][elastic collision]] |            | p. 83 |
+| [[https://en.wikipedia.org/wiki/][isolated system]]                    |            | p. 84 |
+
+| term                                                                       | definition | notes |
+|----------------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/Inelastic_collision][inelastic collision]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/tectonic_plate][tectonic plate]]           |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-1
+:END:
+*** How does the mass of an object affect how easily its motion can be changed?
+:PROPERTIES:
+:CUSTOM_ID: how-does-the-mass-of-an-object-affect-how-easily-its-motion-can-be-changed
+:END:
+*** Which quantity do you expect to be conserved when two objects collide?
+:PROPERTIES:
+:CUSTOM_ID: which-quantity-do-you-expect-to-be-conserved-when-two-objects-collide
+:END:
+*** How can you predict the motion of objects after a collision?
+:PROPERTIES:
+:CUSTOM_ID: how-can-you-predict-the-motion-of-objects-after-a-collision
+:END:
+*** When objects collide, what do you expect to be conserved and what might not be conserved?
+:PROPERTIES:
+:CUSTOM_ID: when-objects-collide-what-do-you-expect-to-be-conserved-and-what-might-not-be-conserved
+:END:
+* forces at a distance
+:PROPERTIES:
+:CUSTOM_ID: forces-at-a-distance
+:time: 22 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-2
+:END:
+| term                                                    | definition | notes |
+|---------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][gravitational force]] |            |       |
+| [[https://en.wikipedia.org/wiki/][contact force]]       |            |       |
+| [[https://en.wikipedia.org/wiki/][field force]]         |            |       |
+
+| term                                                 | definition | notes |
+|------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][attractive force]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][repulsive force]]  |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][electric field]]   |            | p. 12 |
+
+| term                                                           | definition | notes |
+|----------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/macromolecule][macromolecule]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/polymer][polymer]]             |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-2
+:END:
+*** How does distance affect a force between objects that are not in contact?
+:PROPERTIES:
+:CUSTOM_ID: how-does-distance-affect-a-force-between-objects-that-are-not-in-contact
+:END:
+*** What other factors affect forces that act at a distance?
+:PROPERTIES:
+:CUSTOM_ID: what-other-factors-affect-forces-that-act-at-a-distance
+:END:
+*** How do objects stay in orbit?
+:PROPERTIES:
+:CUSTOM_ID: how-do-objects-stay-in-orbit
+:END:
+*** How do materials stay together, and why do they break?
+:PROPERTIES:
+:CUSTOM_ID: how-do-materials-stay-together-and-why-do-they-break
+:END:
+* energy conversion
+:PROPERTIES:
+:CUSTOM_ID: energy-conversion
+:time: 23 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-3
+:END:
+| term                                                             | definition | notes |
+|------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/kinetic_energy][kinetic energy]] |            |       |
+| [[https://en.wikipedia.org/wiki/][potential energy]]             |            |       |
+| [[https://en.wikipedia.org/wiki/][thermal energy]]               |            |       |
+| [[https://en.wikipedia.org/wiki/][thermal equilibrium]]          |            |       |
+| [[https://en.wikipedia.org/wiki/][heat]]                         |            |       |
+| [[https://en.wikipedia.org/wiki/][specific heat capacity]]       |            |       |
+
+| term                                                   | definition | notes |
+|--------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/work_(physics)][work]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][heat engine]]        |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-3
+:END:
+*** How do you know which way energy is going to move?
+:PROPERTIES:
+:CUSTOM_ID: how-do-you-know-which-way-energy-is-going-to-move
+:END:
+*** Why does energy always seem to end up being transferred as heat?
+:PROPERTIES:
+:CUSTOM_ID: why-does-energy-always-seem-to-end-up-being-transferred-as-heat
+:END:
+*** How can one type of energy be transformed into another, more useful type?
+:PROPERTIES:
+:CUSTOM_ID: how-can-one-type-of-energy-be-transformed-into-another-more-useful-type
+:END:
+* electricity and magnetism
+:PROPERTIES:
+:CUSTOM_ID: electricity-and-magnetism
+:time: 23 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-4
+:END:
+| term                                                   | definition | notes |
+|--------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][electrical energy]]  |            |       |
+| [[https://en.wikipedia.org/wiki/][electric current]]   |            |       |
+| [[https://en.wikipedia.org/wiki/][resistance]]         |            |       |
+| [[https://en.wikipedia.org/wiki/][voltage]]            |            |       |
+| [[https://en.wikipedia.org/wiki/][electric potential]] |            |       |
+
+| term                                                             | definition | notes |
+|------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][electromagnet]]                |            | p. 12 |
+| [[https://en.wiki%5Bpedia.org/wiki/][electromagnetic induction]] |            | p. 12 |
+
+| term                 | definition | notes |
+|----------------------+------------+-------|
+| generator]           |            | p. 12 |
+| direct current]      |            | p. 12 |
+| alternating current] |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-4
+:END:
+*** What causes electric current to flow?
+:PROPERTIES:
+:CUSTOM_ID: what-causes-electric-current-to-flow
+:END:
+*** What causes a magnetic field?
+:PROPERTIES:
+:CUSTOM_ID: what-causes-a-magnetic-field
+:END:
+*** How do electric power plants generate electrical energy?
+:PROPERTIES:
+:CUSTOM_ID: how-do-electric-power-plants-generate-electrical-energy
+:END:
+*** What are the advantages and disadvantages of different ways to produce electrical energy?
+:PROPERTIES:
+:CUSTOM_ID: what-are-the-advantages-and-disadvantages-of-different-ways-to-produce-electrical-energy
+:END:
+*** How can electrical energy be produced more sustainably?
+:PROPERTIES:
+:CUSTOM_ID: how-can-electrical-energy-be-produced-more-sustainably
+:END:
+* waves
+:PROPERTIES:
+:CUSTOM_ID: waves
+:time: 20
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-5
+:END:
+| term                                                                   | definition | notes |
+|------------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/mechanical_wave][mechanical wave]]     |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Transverse_wave][transverse wave]]     |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Longitudinal_wave][longitudinal wave]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/wavelength][wavelength]]               |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Frequency][frequency]]                 |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/amplitude][amplitude]]                 |            | p. 12 |
+
+| term                                             | definition | notes |
+|--------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][earthquake]]   |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][seismic wave]] |            | p. 12 |
+
+| term                                                                                   | definition | notes |
+|----------------------------------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/Electromagnetic_radiation][electromagnetic radiation]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Electromagnetic_spectrum][electromagnetic spectrum]]   |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/photon][photon]]                                       |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Black_body][blackbody]]                                |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][photoelectric effect]]                               |            | p. 12 |
+
+array Lesson 4 pixel Lesson 4
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-5
+:END:
+*** Why are water waves spaced evenly apart?
+:PROPERTIES:
+:CUSTOM_ID: why-are-water-waves-spaced-evenly-apart
+:END:
+*** How do we know the structure of Earth's deep interior, when drills have only penetrated a few kilometers into the crust?
+:PROPERTIES:
+:CUSTOM_ID: how-do-we-know-the-structure-of-earths-deep-interior-when-drills-have-only-penetrated-a-few-kilometers-into-the-crust
+:END:
+*** Why can light waves be transmitted across empty space, while sound waves cannot?
+:PROPERTIES:
+:CUSTOM_ID: why-can-light-waves-be-transmitted-across-empty-space-while-sound-waves-cannot
+:END:
+*** What is the difference between analog and digital?
+:PROPERTIES:
+:CUSTOM_ID: what-is-the-difference-between-analog-and-digital
+:END:
+* nuclear process
+:PROPERTIES:
+:CUSTOM_ID: nuclear-process
+:time: 18 days
+:END:
+** vocabulary
+:PROPERTIES:
+:CUSTOM_ID: vocabulary-6
+:END:
+| term                                                         | definition | notes |
+|--------------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/nucleon][nucleon]]           |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/strong_force][strong force]] |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/weak_force][weak force]]     |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][radioactive decay]]        |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Nuclear_fission][fission]]   |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/Nuclear_fusion][fusion]]     |            | p. 12 |
+
+| term                                                   | definition | notes |
+|--------------------------------------------------------+------------+-------|
+| [[https://en.wikipedia.org/wiki/][half-life]]          |            | p. 12 |
+| [[https://en.wikipedia.org/wiki/][radiometric dating]] |            | p. 12 |
+
+** essential questions
+:PROPERTIES:
+:CUSTOM_ID: essential-questions-6
+:END:
+*** Where does the energy emitted by radioactive elements come from?
+:PROPERTIES:
+:CUSTOM_ID: where-does-the-energy-emitted-by-radioactive-elements-come-from
+:END:
+*** Why are nuclear explosions so powerful?
+:PROPERTIES:
+:CUSTOM_ID: why-are-nuclear-explosions-so-powerful
+:END:
+*** How do you measure the age of rocks?
+:PROPERTIES:
+:CUSTOM_ID: how-do-you-measure-the-age-of-rocks
+:END:
+
+#+begin_html
+  <!-- END -->
+#+end_html

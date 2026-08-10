@@ -6,24 +6,32 @@ title: NOTES (physics)
 
 ## vocabulary
 
-|[frame of reference]|
-|[vector]|
-|[velocity]|
-|[acceleration]|
-|[gravity]|
+|term| definition | notes |
+|----|----|----|
+|[frame of reference]|a system of coordinates with a fixed origin |p. 6 |
+|[vector]|quantities that have both size and direction |p. 8|
+|[velocity]| |p. 8|
+|[acceleration]| |p. 10|
+|[gravity]||p. 12|
 
-force Lesson 2
-friction Lesson 2
-normal force Lesson 2
-weight Lesson 2
 
-tradeoff Lesson 3
-iterate Lesson 3
-criteria Lesson 3
-constraint Lesson 3
-decision matrix Lesson 3
-prototype Lesson 3
-stress Lesson 3
+|term| definition | notes |
+|----|----|----|
+|[force]||p. 12|
+|[friction]||p. 12|
+|[normal force]||p. 12|
+|[weight]||p. 12|
+
+
+|term| definition | notes |
+|----|----|----|
+|[tradeoff]
+|[iterate]||p. 12|
+|[criteria]||p. 12|
+|[constraint]||p. 12|
+|[decision matrix]||p. 12|
+|[prototype]||p. 12|
+|[stress]||p. 12|
 
 ## essential questions
 
@@ -37,13 +45,17 @@ stress Lesson 3
 
 ## vocabulary
 
-|[momentum]|
-|[impulse]|
-|[elastic collision]|
-|[isolated system]|
+|term| definition | notes |
+|----|----|----|
+|[momentum]||p. 80|
+|[impulse]||p. 83|
+|[elastic collision]||p. 83|
+|[isolated system]||p. 84|
 
-inelastic collision Lesson 2
-tectonic plate Lesson 2
+|term| definition | notes |
+|----|----|----|
+|[inelastic collision]||p. 12|
+|[tectonic plate]||p. 12|
 
 ## essential questions
 
@@ -57,16 +69,24 @@ tectonic plate Lesson 2
 
 ## vocabulary
 
+|term| definition | notes |
+|----|----|----|
 |[gravitational force]|
 |[contact force]|
 |[field force]|
 
-attractive force Lesson 2
-repulsive force Lesson 2
-electric field Lesson 2
 
-macromolecule Lesson 3
-polymer Lesson 3
+|term| definition | notes |
+|----|----|----|
+|[attractive force]||p. 12|
+|[repulsive force]||p. 12|
+|[electric field]||p. 12|
+
+
+|term| definition | notes |
+|----|----|----|
+|[macromolecule]||p. 12|
+|[polymer]||p. 12|
 
 ## essential questions
 
@@ -81,6 +101,9 @@ polymer Lesson 3
 
 ## vocabulary
 
+
+|term| definition | notes |
+|----|----|----|
 |[kinetic energy]|
 |[potential energy]|
 |[thermal energy]|
@@ -88,8 +111,11 @@ polymer Lesson 3
 |[heat]|
 |[specific heat capacity]|
 
-work Lesson 2
-heat engine Lesson 2
+
+|term| definition | notes |
+|----|----|----|
+|[work]||p. 12|
+|[heat engine]||p. 12|
 
 ## essential questions
 
@@ -103,18 +129,27 @@ heat engine Lesson 2
 
 ## vocabulary
 
+
+|term| definition | notes |
+|----|----|----|
 |[electrical energy]|
 |[electric current]|
 |[resistance]|
 |[voltage]|
 |[electric potential]|
 
-electromagnet Lesson 2
-electromagnetic induction Lesson 2
 
-generator Lesson 3
-direct current Lesson 3
-alternating current Lesson 3
+|term| definition | notes |
+|----|----|----|
+|[electromagnet]||p. 12|
+|[electromagnetic induction]||p. 12|
+
+
+|term| definition | notes |
+|----|----|----|
+|generator]||p. 12|
+|direct current]||p. 12|
+|alternating current]||p. 12|
 
 ## essential questions
 
@@ -129,21 +164,30 @@ alternating current Lesson 3
 
 ## vocabulary
 
-|[mechanical wave]|
-|[transverse wave]|
-|[longitudinal wave]|
-|[wavelength]|
-|[frequency]|
-|[amplitude]|
 
-earthquake Lesson 2
-seismic wave Lesson 2
+|term| definition | notes |
+|----|----|----|
+|[mechanical wave]||p. 12|
+|[transverse wave]||p. 12|
+|[longitudinal wave]||p. 12|
+|[wavelength]||p. 12|
+|[frequency]||p. 12|
+|[amplitude]||p. 12|
 
-electromagnetic radiation Lesson 3
-electromagnetic spectrum Lesson 3
-photon Lesson 3
-blackbody Lesson 3
-photoelectric effect Lesson 3
+
+|term| definition | notes |
+|----|----|----|
+|[earthquake]||p. 12|
+|[seismic wave]||p. 12|
+
+
+|term| definition | notes |
+|----|----|----|
+|[electromagnetic radiation]||p. 12|
+|[electromagnetic spectrum]||p. 12|
+|[photon]||p. 12|
+|[blackbody]||p. 12|
+|[photoelectric effect]||p. 12|
 
 array Lesson 4
 pixel Lesson 4
@@ -160,15 +204,21 @@ pixel Lesson 4
 
 ## vocabulary
 
-|[nucleon]|
-|[strong force]|
-|[weak force]|
-|[radioactive decay]|
-|[fission]|
-|[fusion]|
 
-half-life Lesson 2
-radiometric dating Lesson 2
+|term| definition | notes |
+|----|----|----|
+|[nucleon]||p. 12|
+|[strong force]||p. 12|
+|[weak force]||p. 12|
+|[radioactive decay]||p. 12|
+|[fission]||p. 12|
+|[fusion]||p. 12|
+
+
+|term| definition | notes |
+|----|----|----|
+|[half-life]||p. 12|
+|[radiometric dating]||p. 12|
 
 ## essential questions
 
@@ -176,101 +226,103 @@ radiometric dating Lesson 2
 ### Why are nuclear explosions so powerful?
 ### How do you measure the age of rocks?
 
+<!-- END -->
 
-frame of reference Lesson 1
-vector Lesson 1
-velocity Lesson 1
-acceleration Lesson 1
-gravity Lesson 1
+[frame of reference]: https://en.wikipedia.org/wiki/Frame_of_reference
+[vector]: https://en.wikipedia.org/wiki/Euclidean_vector
+[velocity]: https://en.wikipedia.org/wiki/velocity
+[acceleration]: https://en.wikipedia.org/wiki/acceleration
+[gravity]: https://en.wikipedia.org/wiki/gravity
 
-force Lesson 2
-friction Lesson 2
-normal force Lesson 2
-weight Lesson 2
+[force]: https://en.wikipedia.org/wiki/force
+[friction]: https://en.wikipedia.org/wiki/friction
+[normal force]: https://en.wikipedia.org/wiki/normal_force
+[weight]: https://en.wikipedia.org/wiki/weight
 
-tradeoff Lesson 3
-iterate Lesson 3
-criteria Lesson 3
-constraint Lesson 3
-decision matrix Lesson 3
-prototype Lesson 3
-stress Lesson 3
+[tradeoff]: https://en.wikipedia.org/wiki/
+[iterate]: https://en.wikipedia.org/wiki/
+[criteria]: https://en.wikipedia.org/wiki/
+[constraint]: https://en.wikipedia.org/wiki/
+[decision matrix]: https://en.wikipedia.org/wiki/
+[prototype]: https://en.wikipedia.org/wiki/
+[stress]: https://en.wikipedia.org/wiki/
 
-momentum Lesson 1
-impulse Lesson 1
-elastic collision Lesson 1
-isolated system Lesson 1
+[momentum]: https://en.wikipedia.org/wiki/momentum
+[impulse]: https://en.wikipedia.org/wiki/impulse
+[elastic collision]: https://en.wikipedia.org/wiki/elastic_collision
+[isolated system]: https://en.wikipedia.org/wiki/
 
-inelastic collision Lesson 2
-tectonic plate Lesson 2
+[inelastic collision]: https://en.wikipedia.org/wiki/Inelastic_collision
+[tectonic plate]: https://en.wikipedia.org/wiki/tectonic_plate
 
-gravitational force Lesson 1
-contact force Lesson 1
-field force Lesson 1
+[gravitational force]: https://en.wikipedia.org/wiki/
+[contact force]: https://en.wikipedia.org/wiki/
+[field force]: https://en.wikipedia.org/wiki/
 
-attractive force Lesson 2
-repulsive force Lesson 2
-electric field Lesson 2
+[attractive force]: https://en.wikipedia.org/wiki/
+[repulsive force]: https://en.wikipedia.org/wiki/
+[electric field]: https://en.wikipedia.org/wiki/
 
-macromolecule Lesson 3
-polymer Lesson 3
+[macromolecule]: https://en.wikipedia.org/wiki/macromolecule
+[polymer]: https://en.wikipedia.org/wiki/polymer
 
-kinetic energy Lesson 1
-potential energy Lesson 1
-thermal energy Lesson 1
-thermal equilibrium Lesson 1
-heat Lesson 1
-specific heat capacity Lesson 1
+[kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
+[potential energy]: https://en.wikipedia.org/wiki/
+[thermal energy]: https://en.wikipedia.org/wiki/
+[thermal equilibrium]: https://en.wikipedia.org/wiki/
+[heat]: https://en.wikipedia.org/wiki/
+[specific heat capacity]: https://en.wikipedia.org/wiki/
 
-work Lesson 2
-heat engine Lesson 2
+[work]: https://en.wikipedia.org/wiki/work_(physics)
+[heat engine]: https://en.wikipedia.org/wiki/
 
-electrical energy Lesson 1
-electric current Lesson 1
-resistance Lesson 1
-voltage Lesson 1
-electric potential Lesson 1
+[electrical energy]: https://en.wikipedia.org/wiki/
+[electric current]: https://en.wikipedia.org/wiki/ 
+[resistance]: https://en.wikipedia.org/wiki/ 
+[voltage]: https://en.wikipedia.org/wiki/
+[electric potential]: https://en.wikipedia.org/wiki/
 
-electromagnet Lesson 2
-electromagnetic induction Lesson 2
+[electromagnet]: https://en.wikipedia.org/wiki/
+[electromagnetic induction]: https://en.wiki[pedia.org/wiki/
 
-generator Lesson 3
-direct current Lesson 3
-alternating current Lesson 3
+[generator]: https://en.wikipedia.org/wiki/Electric_generator
+[direct current]: https://en.wikipedia.org/wiki/direct_current
+[alternating current]: https://en.wikipedia.org/wiki/
 
-nucleon Lesson 1
-strong force Lesson 1
-weak force Lesson 1
-radioactive decay Lesson 1
-fission Lesson 1
-fusion Lesson 1
+[nucleon]: https://en.wikipedia.org/wiki/nucleon
+[strong force]: https://en.wikipedia.org/wiki/strong_force
+[weak force]: https://en.wikipedia.org/wiki/weak_force
+[radioactive decay]: https://en.wikipedia.org/wiki/
+[fission]: https://en.wikipedia.org/wiki/Nuclear_fission
+[fusion]: https://en.wikipedia.org/wiki/Nuclear_fusion
 
-half-life Lesson 2
-radiometric dating Lesson 2
+[half-life]: https://en.wikipedia.org/wiki/
+[radiometric dating]: https://en.wikipedia.org/wiki/
 
-mechanical wave Lesson 1
-transverse wave Lesson 1
-longitudinal wave Lesson 1
-wavelength Lesson 1
-frequency Lesson 1
-amplitude Lesson 1
+[mechanical wave]: https://en.wikipedia.org/wiki/mechanical_wave
+[transverse wave]: https://en.wikipedia.org/wiki/Transverse_wave
+[longitudinal wave]: https://en.wikipedia.org/wiki/Longitudinal_wave
+[wavelength]: https://en.wikipedia.org/wiki/wavelength
+[frequency]: https://en.wikipedia.org/wiki/Frequency
+[amplitude]: https://en.wikipedia.org/wiki/amplitude
 
-earthquake Lesson 2
-seismic wave Lesson 2
+[earthquake]: https://en.wikipedia.org/wiki/
+[seismic wave]: https://en.wikipedia.org/wiki/
 
-electromagnetic radiation Lesson 3
-electromagnetic spectrum Lesson 3
-photon Lesson 3
-blackbody Lesson 3
-photoelectric effect Lesson 3
+[electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
+[electromagnetic spectrum]: https://en.wikipedia.org/wiki/Electromagnetic_spectrum
+[photon]: https://en.wikipedia.org/wiki/photon
+[blackbody]: https://en.wikipedia.org/wiki/Black_body
+[photoelectric effect]: https://en.wikipedia.org/wiki/
 
-array Lesson 4
-pixel Lesson 4
+[array]: https://en.wikipedia.org/wiki/
+[pixel]: https://en.wikipedia.org/wiki/
 
-light-year Lesson 1
-plasma Lesson 1
-sunspot Lesson 1
-Doppler effect Lesson 1
 
-big bang theory Lesson 2
-cosmic microwave background Lesson 2
+[light-year]: https://en.wikipedia.org/wiki/
+[plasma]: https://en.wikipedia.org/wiki/
+[sunspot]: https://en.wikipedia.org/wiki/
+[Doppler effect]: https://en.wikipedia.org/wiki/
+
+[big bang theory]: https://en.wikipedia.org/wiki/
+[cosmic microwave background]: https://en.wikipedia.org/wiki/
