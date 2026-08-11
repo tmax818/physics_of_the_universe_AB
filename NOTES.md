@@ -6,36 +6,36 @@ title: NOTES (physics)
 
 ## vocabulary
 
-|term| definition | notes |
-|----|----|----|
-|[frame of reference]|a system of coordinates with a fixed origin |p. 6 |
-|[vector]|quantities that have both size and direction |p. 8|
-|[velocity]| |p. 8|
-|[acceleration]| |p. 10|
-|[gravity]||p. 12|
+| term                 | definition                                   | notes |
+|----------------------|----------------------------------------------|-------|
+| [frame of reference] | a system of coordinates with a fixed origin  | p. 6  |
+| [vector]             | quantities that have both size and direction | p. 8  |
+| [velocity]           |                                              | p. 8  |
+| [acceleration]       |                                              | p. 10 |
+| [gravity]            |                                              | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[force]||p. 26|
-|[friction]||p. 26|
-|[normal force]||p. 27 ![](./images/Incline.svg){width=100px}|
-|[weight]||p. 27 ![](./images/Mass_versus_weight_in_earth_and_mars.svg.webp){width=100px}|
+| term           | definition | notes |
+|----------------|------------|-------|
+| [force]        |            | p. 26 |
+| [friction]     |            | p. 26 |
+| [normal force] |            | p. 27 |
+| [weight]       |            | p. 27 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[tradeoff]||p. 48|
-|[iterate]||p. 50|
-|[criteria]||p. 51|
-|[constraint]||p. 51|
-|[decision matrix]||p. 53|
-|[prototype]||p. 54|
-|[stress]|the internal force between neighboring particles in a material|p. 57|
+| term              | definition                                                     | notes |
+|-------------------|----------------------------------------------------------------|-------|
+| [tradeoff]        |                                                                | p. 48 |
+| [iterate]         |                                                                | p. 50 |
+| [criteria]        |                                                                | p. 51 |
+| [constraint]      |                                                                | p. 51 |
+| [decision matrix] |                                                                | p. 53 |
+| [prototype]       |                                                                | p. 54 |
+| [stress]          | the internal force between neighboring particles in a material | p. 57 |
 
 ## essential questions
 
-### How can **[force]s** on objects be used to predict their **[motion]**?
+### How can [forces] on objects be used to predict their [motion]?
 ### How do different forces affect motion when they interact?
 ### How can forces be used to predict stability?
 ### How do engineers use forces and motion to develop solutions to problems?
@@ -45,17 +45,17 @@ title: NOTES (physics)
 
 ## vocabulary
 
-|term| definition | notes |
-|----|----|----|
-|[momentum]||p. 80|
-|[impulse]||p. 83|
-|[elastic collision]||p. 83|
-|[isolated system]||p. 84|
+| term                | definition | notes |
+|---------------------|------------|-------|
+| [momentum]          |            | p. 80 |
+| [impulse]           |            | p. 83 |
+| [elastic collision] |            | p. 83 |
+| [isolated system]   |            | p. 84 |
 
-|term| definition | notes |
-|----|----|----|
-|[inelastic collision]||p. 92|
-|[tectonic plate]||p. 100|
+| term                  | definition | notes  |
+|-----------------------|------------|--------|
+| [inelastic collision] |            | p. 92  |
+| [tectonic plate]      |            | p. 100 |
 
 ![](./images/Inelastischer_stoß.gif)
 
@@ -71,24 +71,24 @@ title: NOTES (physics)
 
 ## vocabulary
 
-|term| definition | notes |
-|----|----|----|
-|[gravitational force]||p. 12|
-|[contact force]||p. 12|
-|[field force]||p. 12|
+| term                  | definition | notes |
+|-----------------------|------------|-------|
+| [gravitational force] |            | p. 12 |
+| [contact force]       |            | p. 12 |
+| [field force]         |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[attractive force]||p. 12|
-|[repulsive force]||p. 12|
-|[electric field]||p. 12|
+| term               | definition | notes |
+|--------------------|------------|-------|
+| [attractive force] |            | p. 12 |
+| [repulsive force]  |            | p. 12 |
+| [electric field]   |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[macromolecule]||p. 12|
-|[polymer]||p. 12|
+| term            | definition | notes |
+|-----------------|------------|-------|
+| [macromolecule] |            | p. 12 |
+| [polymer]       |            | p. 12 |
 
 ## essential questions
 
@@ -104,20 +104,20 @@ title: NOTES (physics)
 ## vocabulary
 
 
-|term| definition | notes |
-|----|----|----|
-|[kinetic energy]|
-|[potential energy]|
-|[thermal energy]|
-|[thermal equilibrium]|
-|[heat]|
-|[specific heat capacity]|
+| term                     | definition | notes |
+|--------------------------|------------|-------|
+| [kinetic energy]         |            |       |
+| [potential energy]       |            |       |
+| [thermal energy]         |            |       |
+| [thermal equilibrium]    |            |       |
+| [heat]                   |            |       |
+| [specific heat capacity] |            |       |
 
 
-|term| definition | notes |
-|----|----|----|
-|[work]||p. 200|
-|[heat engine]||p. 225|
+| term          | definition | notes  |
+|---------------|------------|--------|
+| [work]        |            | p. 200 |
+| [heat engine] |            | p. 225 |
 
 ## essential questions
 
@@ -132,26 +132,26 @@ title: NOTES (physics)
 ## vocabulary
 
 
-|term| definition | notes |
-|----|----|----|
-|[electrical energy]|
-|[electric current]|
-|[resistance]|
-|[voltage]|
-|[electric potential]|
+| term                 | definition | notes |
+|----------------------|------------|-------|
+| [electrical energy]  |            | p. 12 |
+| [electric current]   |            | p. 12 |
+| [resistance]         |            | p. 12 |
+| [voltage]            |            | p. 12 |
+| [electric potential] |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[electromagnet]||p. 12|
-|[electromagnetic induction]||p. 12|
+| term                        | definition | notes |
+|-----------------------------|------------|-------|
+| [electromagnet]             |            | p. 12 |
+| [electromagnetic induction] |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|generator]||p. 12|
-|direct current]||p. 12|
-|alternating current]||p. 12|
+| term                  | definition | notes |
+|-----------------------|------------|-------|
+| [generator]           |            | p. 12 |
+| [direct current]      |            | p. 12 |
+| [alternating current] |            | p. 12 |
 
 ## essential questions
 
@@ -167,29 +167,29 @@ title: NOTES (physics)
 ## vocabulary
 
 
-|term| definition | notes |
-|----|----|----|
-|[mechanical wave]||p. 12|
-|[transverse wave]||p. 12|
-|[longitudinal wave]||p. 12|
-|[wavelength]||p. 12|
-|[frequency]||p. 12|
-|[amplitude]||p. 12|
+| term                | definition | notes |
+|---------------------|------------|-------|
+| [mechanical wave]   |            | p. 12 |
+| [transverse wave]   |            | p. 12 |
+| [longitudinal wave] |            | p. 12 |
+| [wavelength]        |            | p. 12 |
+| [frequency]         |            | p. 12 |
+| [amplitude]         |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[earthquake]||p. 12|
-|[seismic wave]||p. 12|
+| term           | definition | notes |
+|----------------|------------|-------|
+| [earthquake]   |            | p. 12 |
+| [seismic wave] |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[electromagnetic radiation]||p. 12|
-|[electromagnetic spectrum]||p. 12|
-|[photon]||p. 12|
-|[blackbody]||p. 12|
-|[photoelectric effect]||p. 12|
+| term                        | definition | notes |
+|-----------------------------|------------|-------|
+| [electromagnetic radiation] |            | p. 12 |
+| [electromagnetic spectrum]  |            | p. 12 |
+| [photon]                    |            | p. 12 |
+| [blackbody]                 |            | p. 12 |
+| [photoelectric effect]      |            | p. 12 |
 
 array Lesson 4
 pixel Lesson 4
@@ -207,20 +207,20 @@ pixel Lesson 4
 ## vocabulary
 
 
-|term| definition | notes |
-|----|----|----|
-|[nucleon]||p. 12|
-|[strong force]||p. 12|
-|[weak force]||p. 12|
-|[radioactive decay]||p. 12|
-|[fission]||p. 12|
-|[fusion]||p. 12|
+| term                | definition | notes |
+|---------------------|------------|-------|
+| [nucleon]           |            | p. 12 |
+| [strong force]      |            | p. 12 |
+| [weak force]        |            | p. 12 |
+| [radioactive decay] |            | p. 12 |
+| [fission]           |            | p. 12 |
+| [fusion]            |            | p. 12 |
 
 
-|term| definition | notes |
-|----|----|----|
-|[half-life]||p. 12|
-|[radiometric dating]||p. 12|
+| term                 | definition | notes |
+|----------------------|------------|-------|
+| [half-life]          |            | p. 12 |
+| [radiometric dating] |            | p. 12 |
 
 ## essential questions
 
@@ -230,100 +230,80 @@ pixel Lesson 4
 
 <!-- END -->
 
-[frame of reference]: https://en.wikipedia.org/wiki/Frame_of_reference
-[vector]: https://en.wikipedia.org/wiki/Euclidean_vector
-[velocity]: https://en.wikipedia.org/wiki/velocity
 [acceleration]: https://en.wikipedia.org/wiki/acceleration
-[gravity]: https://en.wikipedia.org/wiki/gravity
-
-[force]: https://en.wikipedia.org/wiki/force
-[friction]: https://en.wikipedia.org/wiki/friction
-[normal force]: https://en.wikipedia.org/wiki/normal_force
-[weight]: https://en.wikipedia.org/wiki/weight
-
-[tradeoff]: https://en.wikipedia.org/wiki/
-[iterate]: https://en.wikipedia.org/wiki/
-[criteria]: https://en.wikipedia.org/wiki/
-[constraint]: https://en.wikipedia.org/wiki/
-[decision matrix]: https://en.wikipedia.org/wiki/
-[prototype]: https://en.wikipedia.org/wiki/
-[stress]: https://en.wikipedia.org/wiki/Strength_of_materials#stress_terms
-
-[momentum]: https://en.wikipedia.org/wiki/momentum
-[impulse]: https://en.wikipedia.org/wiki/impulse
-[elastic collision]: https://en.wikipedia.org/wiki/elastic_collision
-[isolated system]: https://en.wikipedia.org/wiki/
-
-[inelastic collision]: https://en.wikipedia.org/wiki/Inelastic_collision
-[tectonic plate]: https://en.wikipedia.org/wiki/tectonic_plate
-
-[gravitational force]: https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
-[contact force]: https://en.wikipedia.org/wiki/Contact_force
-[field force]: https://en.wikipedia.org/wiki/Force_field_(physics)
-
+[alternating current]: https://en.wikipedia.org/wiki/alternating_current
+[amplitude]: https://en.wikipedia.org/wiki/amplitude
+[array]: https://en.wikipedia.org/wiki/
 [attractive force]: https://en.wikipedia.org/wiki/
-[repulsive force]: https://en.wikipedia.org/wiki/
-[electric field]: https://en.wikipedia.org/wiki/Electric_field
-
-[macromolecule]: https://en.wikipedia.org/wiki/macromolecule
-[polymer]: https://en.wikipedia.org/wiki/polymer
-
-[kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
-[potential energy]: https://en.wikipedia.org/wiki/potential_energy
-[thermal energy]: https://en.wikipedia.org/wiki/Thermal_energy
-[thermal equilibrium]: https://en.wikipedia.org/wiki/
-[heat]: https://en.wikipedia.org/wiki/heat
-[specific heat capacity]: https://en.wikipedia.org/wiki/Specific_heat_capacity
-[work]: https://en.wikipedia.org/wiki/work_(physics)
-[heat engine]: https://en.wikipedia.org/wiki/
-
-[electrical energy]: https://en.wikipedia.org/wiki/electrical_energy
+[big bang theory]: https://en.wikipedia.org/wiki/big_bang
+[blackbody]: https://en.wikipedia.org/wiki/Black_body
+[constraint]: https://en.wikipedia.org/wiki/
+[contact force]: https://en.wikipedia.org/wiki/Contact_force
+[cosmic microwave background]: https://en.wikipedia.org/wiki/Cosmic_microwave_background
+[criteria]: https://en.wikipedia.org/wiki/
+[decision matrix]: https://en.wikipedia.org/wiki/
+[direct current]: https://en.wikipedia.org/wiki/direct_current
+[Doppler effect]: https://en.wikipedia.org/wiki/
+[earthquake]: https://en.wikipedia.org/wiki/
+[elastic collision]: https://en.wikipedia.org/wiki/elastic_collision
 [electric current]: https://en.wikipedia.org/wiki/Electric_current
-[resistance]: hhttps://en.wikipedia.org/wiki/Electrical_resistance_and_conductance
-[voltage]: https://en.wikipedia.org/wiki/voltage
+[electric field]: https://en.wikipedia.org/wiki/Electric_field
 [electric potential]: https://en.wikipedia.org/wiki/electric_potential
-
+[electrical energy]: https://en.wikipedia.org/wiki/electrical_energy
 [electromagnet]: https://en.wikipedia.org/wiki/
 [electromagnetic induction]: https://en.wiki[pedia.org/wiki/
-
-[generator]: https://en.wikipedia.org/wiki/Electric_generator
-[direct current]: https://en.wikipedia.org/wiki/direct_current
-[alternating current]: https://en.wikipedia.org/wiki/
-
-[nucleon]: https://en.wikipedia.org/wiki/nucleon
-[strong force]: https://en.wikipedia.org/wiki/strong_force
-[weak force]: https://en.wikipedia.org/wiki/weak_force
-[radioactive decay]: https://en.wikipedia.org/wiki/
-[fission]: https://en.wikipedia.org/wiki/Nuclear_fission
-[fusion]: https://en.wikipedia.org/wiki/Nuclear_fusion
-
-[half-life]: https://en.wikipedia.org/wiki/
-[radiometric dating]: https://en.wikipedia.org/wiki/
-
-[mechanical wave]: https://en.wikipedia.org/wiki/mechanical_wave
-[transverse wave]: https://en.wikipedia.org/wiki/Transverse_wave
-[longitudinal wave]: https://en.wikipedia.org/wiki/Longitudinal_wave
-[wavelength]: https://en.wikipedia.org/wiki/wavelength
-[frequency]: https://en.wikipedia.org/wiki/Frequency
-[amplitude]: https://en.wikipedia.org/wiki/amplitude
-
-[earthquake]: https://en.wikipedia.org/wiki/
-[seismic wave]: https://en.wikipedia.org/wiki/
-
 [electromagnetic radiation]: https://en.wikipedia.org/wiki/Electromagnetic_radiation
 [electromagnetic spectrum]: https://en.wikipedia.org/wiki/Electromagnetic_spectrum
-[photon]: https://en.wikipedia.org/wiki/photon
-[blackbody]: https://en.wikipedia.org/wiki/Black_body
-[photoelectric effect]: https://en.wikipedia.org/wiki/photoelectric_effect
-
-[array]: https://en.wikipedia.org/wiki/
-[pixel]: https://en.wikipedia.org/wiki/
-
-
+[field force]: https://en.wikipedia.org/wiki/Force_field_(physics)
+[fission]: https://en.wikipedia.org/wiki/Nuclear_fission
+[force]: https://en.wikipedia.org/wiki/force
+[frame of reference]: https://en.wikipedia.org/wiki/Frame_of_reference
+[frequency]: https://en.wikipedia.org/wiki/Frequency
+[friction]: https://en.wikipedia.org/wiki/friction
+[fusion]: https://en.wikipedia.org/wiki/Nuclear_fusion
+[generator]: https://en.wikipedia.org/wiki/Electric_generator
+[gravitational force]: https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+[gravity]: https://en.wikipedia.org/wiki/gravity
+[half-life]: https://en.wikipedia.org/wiki/
+[heat engine]: https://en.wikipedia.org/wiki/
+[heat]: https://en.wikipedia.org/wiki/heat
+[impulse]: https://en.wikipedia.org/wiki/impulse
+[inelastic collision]: https://en.wikipedia.org/wiki/Inelastic_collision
+[isolated system]: https://en.wikipedia.org/wiki/
+[iterate]: https://en.wikipedia.org/wiki/
+[kinetic energy]: https://en.wikipedia.org/wiki/kinetic_energy
 [light-year]: https://en.wikipedia.org/wiki/Light-year
+[longitudinal wave]: https://en.wikipedia.org/wiki/Longitudinal_wave
+[macromolecule]: https://en.wikipedia.org/wiki/macromolecule
+[mechanical wave]: https://en.wikipedia.org/wiki/mechanical_wave
+[momentum]: https://en.wikipedia.org/wiki/momentum
+[normal force]: https://en.wikipedia.org/wiki/normal_force
+[nucleon]: https://en.wikipedia.org/wiki/nucleon
+[photoelectric effect]: https://en.wikipedia.org/wiki/photoelectric_effect
+[photon]: https://en.wikipedia.org/wiki/photon
+[pixel]: https://en.wikipedia.org/wiki/
 [plasma]: https://en.wikipedia.org/wiki/
+[polymer]: https://en.wikipedia.org/wiki/polymer
+[potential energy]: https://en.wikipedia.org/wiki/potential_energy
+[prototype]: https://en.wikipedia.org/wiki/
+[radioactive decay]: https://en.wikipedia.org/wiki/
+[radiometric dating]: https://en.wikipedia.org/wiki/
+[repulsive force]: https://en.wikipedia.org/wiki/
+[resistance]: hhttps://en.wikipedia.org/wiki/Electrical_resistance_and_conductance
+[seismic wave]: https://en.wikipedia.org/wiki/
+[specific heat capacity]: https://en.wikipedia.org/wiki/Specific_heat_capacity
+[stress]: https://en.wikipedia.org/wiki/Strength_of_materials#stress_terms
+[strong force]: https://en.wikipedia.org/wiki/strong_force
 [sunspot]: https://en.wikipedia.org/wiki/
-[Doppler effect]: https://en.wikipedia.org/wiki/
-
-[big bang theory]: https://en.wikipedia.org/wiki/big_bang
-[cosmic microwave background]: https://en.wikipedia.org/wiki/Cosmic_microwave_background
+[tectonic plate]: https://en.wikipedia.org/wiki/tectonic_plate
+[thermal energy]: https://en.wikipedia.org/wiki/Thermal_energy
+[thermal equilibrium]: https://en.wikipedia.org/wiki/
+[tradeoff]: https://en.wikipedia.org/wiki/
+[transverse wave]: https://en.wikipedia.org/wiki/Transverse_wave
+[vector]: https://en.wikipedia.org/wiki/Euclidean_vector
+[velocity]: https://en.wikipedia.org/wiki/velocity
+[voltage]: https://en.wikipedia.org/wiki/voltage
+[wavelength]: https://en.wikipedia.org/wiki/wavelength
+[weak force]: https://en.wikipedia.org/wiki/weak_force
+[weight]: https://en.wikipedia.org/wiki/weight
+[work]: https://en.wikipedia.org/wiki/work_(physics)
