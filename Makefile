@@ -1,4 +1,6 @@
 
+all:
+	pandoc -s -o ./public/TEXT.txt ./public/TEXT.org
 
 
 slides:

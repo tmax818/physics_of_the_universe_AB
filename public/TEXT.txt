@@ -1,7 +1,7 @@
 ---
-title: Physics of the Universe (AB)
-author: Mr. Maxwell
+author: Mr. Maxwell
 date: 2026-08-16
+title: Physics of the Universe (AB)
 ---
 
 # Synopsis
@@ -10,6 +10,5 @@ This is a draft
 
 # Description
 
-The following are my notes for my Advanced Physical Science class taught at [PACS] for the 2026-2027 school year.
-
-[PACS]: https://www.pacspride.org/
+The following are my notes for my Advanced Physical Science class taught
+at [PACS](https://www.pacspride.org/) for the 2026-2027 school year.
