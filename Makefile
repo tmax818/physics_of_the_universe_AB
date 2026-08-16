@@ -1,12 +1,5 @@
 
 
-all:
-	pandoc -s -o NOTES.md NOTES.org
-
-
-back:
-	pandoc -s -o NOTES.org NOTES.md
-
 
 slides:
 	pandoc -t revealjs -s -o index.html SLIDES.md \
@@ -15,5 +8,9 @@ slides:
 	-V transition=linear \
 	--slide-level 3
 
-pdf:
-	pandoc -s -o syllabus.pdf syllabus.md \
+site:
+	pandoc -s --toc -c \
+	./assets/css/pandoc.css \
+	-A ./assets/html/footer.html \
+	./public/TEXT.txt \
+	-o index.html   
