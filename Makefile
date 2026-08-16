@@ -1,4 +1,3 @@
-FORMAT=beamer
 
 
 all:
@@ -12,6 +11,9 @@ back:
 slides:
 	pandoc -t revealjs -s -o index.html SLIDES.md \
 	-V revealjs-url=./reveal.js \
-	-V theme=sky \
-	-V transition=cube \
+	-V theme=night \
+	-V transition=linear \
 	--slide-level 3
+
+pdf:
+	pandoc -s -o syllabus.pdf syllabus.md \
