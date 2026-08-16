@@ -2,7 +2,7 @@
 title: physics of the universe
 ---
 
-The following are the **essential questions** (and AI genrated answers)outlined in the district's [pacing guide].
+The following are the **essential questions** (and AI generated answers)outlined in the district's [pacing guide].
 
 [pacing guide]: https://docs.google.com/presentation/d/109XUpPRbk49KlgdR8bgXr8TG19ON2OSdYWE7BZB0OW0/edit?slide=id.g377e4b8f59c_1_0#slide=id.g377e4b8f59c_1_0
 
